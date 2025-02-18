@@ -51,13 +51,11 @@ This project is a comprehensive e-commerce website, meticulously crafted to mirr
 
 ![Imitate-Amazon-Vue3-complex](screenshots/7.png)
 
-![Imitate-Amazon-Vue3-complex](screenshots/8.png)
-
 ### Use a sandbox to imitate payment
 
 ![Imitate-Amazon-Vue3-complex](screenshots/9.png)
 
-### Need to input account
+### Need to input account info
 
 ![Imitate-Amazon-Vue3-complex](screenshots/10.png)
 
